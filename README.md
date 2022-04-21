@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-import SoftwareDeveloper from 'tyler-bolty';
+```import SoftwareDeveloper from 'tyler-bolty';
 
 class Bio extends SoftwareDeveloper {
   this.name     = 'Tyler Bolty';
@@ -15,7 +15,7 @@ class Skills extends SoftwareDeveloper {
   this.technologies = ['React', 'React Native', 'Vue', 'GraphQL', 'AWS', 'Google API', 'Material-UI'];
 }
 
-
+```
 <!--
 **starbjornx/starbjornx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
