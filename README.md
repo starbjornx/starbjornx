@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+import SoftwareDeveloper from 'tyler-bolty';
+
+class Bio extends SoftwareDeveloper {
+  this.name     = 'Tyler Bolty';
+  this.title    = 'Full Stack Engineer';
+  this.company  = 'Backbone';
+  this.location = 'Colorado';
+}
+
+class Skills extends SoftwareDeveloper {
+  this.languages    = ['TypeScript', 'JavaScript', 'Ruby On Rails', 'HTML', 'CSS'];
+  this.databases    = ['MongoDB', 'MySQL', 'PostgreSQL'];
+  this.technologies = ['React', 'React Native', 'Vue', 'GraphQL', 'AWS', 'Google API', 'Material-UI'];
+}
+
+
 <!--
 **starbjornx/starbjornx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
