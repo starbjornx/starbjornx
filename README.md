@@ -1,18 +1,19 @@
 ### Hi there 👋
 
-```import SoftwareDeveloper from 'tyler-bolty';
+```
+import SoftwareDeveloper from 'kyle-henriksen';
 
 class Bio extends SoftwareDeveloper {
-  this.name     = 'Tyler Bolty';
+  this.name     = 'Kyle Henriksen';
   this.title    = 'Full Stack Engineer';
-  this.company  = 'Backbone';
+  this.company  = 'N/A';
   this.location = 'Colorado';
 }
 
 class Skills extends SoftwareDeveloper {
-  this.languages    = ['TypeScript', 'JavaScript', 'Ruby On Rails', 'HTML', 'CSS'];
-  this.databases    = ['MongoDB', 'MySQL', 'PostgreSQL'];
-  this.technologies = ['React', 'React Native', 'Vue', 'GraphQL', 'AWS', 'Google API', 'Material-UI'];
+  this.languages    = ['JavaScript',  'HTML', 'CSS'];
+  this.databases    = ['MongoDB', 'MySQL'];
+  this.technologies = ['React',  'GraphQL', ];
 }
 
 ```
