@@ -18,9 +18,15 @@ class Skills extends SoftwareDeveloper {
 
 ```
 
-**starbjornx/starbjornx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Kyle.Henriksen/starbjornx** is a ✨ full stack junior web developer ✨ recently graduated from the Denver University online bootcamp.
 
-Here are some ideas to get you started:
+
+
+
+
+
+
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -31,3 +37,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I will probably code every day for the rest of my life!
 
+ -->
