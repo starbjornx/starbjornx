@@ -6,10 +6,6 @@
 </header>
 <body style="font-family: 'Press Start 2P';>
 
-<div class="container"align="center">
-<div class="row">
-
-<div class="col">
 <img src="./character.png" style="width: 5%; display: inline;">
 
 ```
@@ -26,27 +22,17 @@ this.location = 'Colorado';
 class Skills extends SoftwareDeveloper {
 this.languages = ['JavaScript', 'HTML', 'CSS'];
 this.databases = ['MongoDB', 'MySQL'];
-this.technologies = ['React', 'GraphQL', ];
+✨this.technologies = ['React', 'GraphQL', bootstrap ];
 }
 
 ```
 
-</div>
-</div>
-</div>
 <br />
 **Kyle.Henriksen/starbjornx** is a ✨ full stack junior web developer ✨ recently graduated from the Denver University online bootcamp.
 <br />
 
-<nav>
-
-<a href="https://www.google.com"> <p style="background-color: red; font-size: 24px; border: 3px solid red;">Portfolio</p></a>
-<a href="https://www.google.com"> <p style="background-color: red; font-size: 24px; border: 3px solid red;">Portfolio</p></a>
-<a href="https://www.google.com"> <p style="background-color: red; font-size: 24px; border: 3px solid red;">Portfolio</p></a>
 <a href="https://www.google.com"> <p style="background-color: red; font-size: 24px; border: 3px solid red;">Portfolio</p></a>
 
-</nav>
-</div>
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
