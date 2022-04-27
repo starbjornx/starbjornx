@@ -42,7 +42,7 @@ this.technologies = ['React', 'GraphQL', ];
 **Kyle.Henriksen/starbjornx** is a ✨ full stack junior web developer ✨ recently graduated from the Denver University online bootcamp.
 <br>
 
-<a href="https://www.google.com"><p type="button"style="background-color: red; font-size: 24px; font-family: ">Portfolio</p></a>
+<a href="https://www.google.com"> <p style="background-color: red; font-size: 24px;">Portfolio</p></a>
 
 <!-- Here are some ideas to get you started:
 
