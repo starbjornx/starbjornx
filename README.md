@@ -6,14 +6,10 @@
 </header>
 <body style="font-family: 'Press Start 2P';>
 
-### Hi there 👋
-
-<h1 align="center">This is My font style!</h1>
-
 <div class="container"align="center">
 <div class="row">
 
-<div class="col-sm-6">
+<div class="col">
 <img src="./character.png" style="width: 5%; display: inline;">
 
 ```
@@ -38,12 +34,16 @@ this.technologies = ['React', 'GraphQL', ];
 </div>
 </div>
 </div>
-<br>
+<br />
 **Kyle.Henriksen/starbjornx** is a ✨ full stack junior web developer ✨ recently graduated from the Denver University online bootcamp.
-<br>
+<br />
 
-<a href="https://www.google.com"> <p style="background-color: red; font-size: 24px;">Portfolio</p></a>
-
+<div style="display: inline;">
+<a href="https://www.google.com"> <p style="background-color: red; font-size: 24px; border: 3px solid red;">Portfolio</p></a>
+<a href="https://www.google.com"> <p style="background-color: red; font-size: 24px; border: 3px solid red;">Portfolio</p></a>
+<a href="https://www.google.com"> <p style="background-color: red; font-size: 24px; border: 3px solid red;">Portfolio</p></a>
+<a href="https://www.google.com"> <p style="background-color: red; font-size: 24px; border: 3px solid red;">Portfolio</p></a>
+</div>
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
