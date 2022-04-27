@@ -39,10 +39,12 @@ this.technologies = ['React', 'GraphQL', ];
 <br />
 
 <div style="display: inline;">
+<ul>
+<li><a href="https://www.google.com"> <p style="background-color: red; font-size: 24px; border: 3px solid red;">Portfolio</p></a></li>
+<li><a href="https://www.google.com"> <p style="background-color: red; font-size: 24px; border: 3px solid red;">Portfolio</p></a></li>
 <a href="https://www.google.com"> <p style="background-color: red; font-size: 24px; border: 3px solid red;">Portfolio</p></a>
 <a href="https://www.google.com"> <p style="background-color: red; font-size: 24px; border: 3px solid red;">Portfolio</p></a>
-<a href="https://www.google.com"> <p style="background-color: red; font-size: 24px; border: 3px solid red;">Portfolio</p></a>
-<a href="https://www.google.com"> <p style="background-color: red; font-size: 24px; border: 3px solid red;">Portfolio</p></a>
+</ul>
 </div>
 <!-- Here are some ideas to get you started:
 
