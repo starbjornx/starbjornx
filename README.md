@@ -42,7 +42,7 @@ this.technologies = ['React', 'GraphQL', ];
 **Kyle.Henriksen/starbjornx** is a ✨ full stack junior web developer ✨ recently graduated from the Denver University online bootcamp.
 <br>
 
-<button style="background-color: red; font-size: 24px; font-family:  ">Portfolio</button>
+<p type="button"style="background-color: red; font-size: 24px; font-family:  ">Portfolio</p>
 
 <!-- Here are some ideas to get you started:
 
@@ -59,5 +59,3 @@ this.technologies = ['React', 'GraphQL', ];
 
 </body>
 </html>
-```
-`````
