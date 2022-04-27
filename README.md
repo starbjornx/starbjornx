@@ -38,13 +38,14 @@ this.technologies = ['React', 'GraphQL', ];
 **Kyle.Henriksen/starbjornx** is a ✨ full stack junior web developer ✨ recently graduated from the Denver University online bootcamp.
 <br />
 
-<div style="display: inline;">
-<ul>
-<li><a href="https://www.google.com"> <p style="background-color: red; font-size: 24px; border: 3px solid red;">Portfolio</p></a></li>
-<li><a href="https://www.google.com"> <p style="background-color: red; font-size: 24px; border: 3px solid red;">Portfolio</p></a></li>
+<nav>
+
 <a href="https://www.google.com"> <p style="background-color: red; font-size: 24px; border: 3px solid red;">Portfolio</p></a>
 <a href="https://www.google.com"> <p style="background-color: red; font-size: 24px; border: 3px solid red;">Portfolio</p></a>
-</ul>
+<a href="https://www.google.com"> <p style="background-color: red; font-size: 24px; border: 3px solid red;">Portfolio</p></a>
+<a href="https://www.google.com"> <p style="background-color: red; font-size: 24px; border: 3px solid red;">Portfolio</p></a>
+
+</nav>
 </div>
 <!-- Here are some ideas to get you started:
 
