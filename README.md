@@ -22,7 +22,7 @@ this.location = 'Colorado';
 class Skills extends SoftwareDeveloper {
 this.languages = ['JavaScript', 'HTML', 'CSS'];
 this.databases = ['MongoDB', 'MySQL'];
-✨this.technologies = ['React', 'GraphQL', bootstrap ];
+this.technologies = ['React', 'GraphQL', bootstrap ];
 }
 
 ```
