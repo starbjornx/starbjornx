@@ -31,7 +31,7 @@ this.technologies = ['React', 'GraphQL', bootstrap ];
 **Kyle.Henriksen/starbjornx** is a ✨ full stack junior web developer ✨ recently graduated from the Denver University online bootcamp.
 <br />
 
-<a href="[https://www.google.com](https://main.d3canzxcywvoxg.amplifyapp.com/)"> <p style="background-color: red; font-size: 24px; border: 3px solid red;">Portfolio</p></a>
+<a href="https://www.google.com](https://main.d3canzxcywvoxg.amplifyapp.com/)"> <p style="background-color: red; font-size: 24px; border: 3px solid red;">Portfolio</p></a>
 
 <!-- Here are some ideas to get you started:
 
